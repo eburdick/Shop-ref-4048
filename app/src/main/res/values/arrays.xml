@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drill_size_array">
+        <item>     "4-40    #43     #38    #32"</item>
+        <item>     "6-32    #36     1/8    #27"</item>
+        <item>     "8-32    #29     #25    #18"</item>
+        <item>     "10-32   #21     #16     #9"</item>
+        <item>     "1/4-20   #7     #1      F"</item>
+        <item>     "M3      #40     7/64   #40"</item>
+        <item>     "M4      #30     #27    #30"</item>
+        <item>     "M5      #19     #15    #19"</item>
+        <item>     "M6      #9     7/32    #9"</item>
+        <item>     "M8x1     J       M      G"</item>
+        <item>     "M8x1.25  H       L      G"</item>
+        <item>     "M10x1.25 11/32   U      Q"</item>
+        <item>     "M10x1.5  Q     23/64    Q"</item>
+    </string-array>
+    <string-array name="sae_metric_table">
+        <item>"60    .0400    1.02"</item>
+        <item>"59    .0410    1.04"</item>
+        <item>"58    .0420    1.07"</item>
+        <item>"57    .0430    1.09"</item>
+        <item>"56    .0465    1.18"</item>
+        <item>"3/64  .0469    1.19"</item>
+        <item>"55    .0520    1.32"</item>
+        <item>"54    .0550    1.40"</item>
+        <item>"53    .0595    1.51"</item>
+        <item>"1/16  .0625    1.59"</item>
+        <item>"52    .0635    1.61"</item>
+        <item>"51    .0670    1.70"</item>
+        <item>"50    .0700    1.78"</item>
+        <item>"49    .0730    1.85"</item>
+        <item>"48    .0760    1.93"</item>
+        <item>"5/64  .0781    1.98"</item>
+        <item>"47    .0785    1.99"</item>
+        <item>"      .0787    2.00"</item>
+        <item>"46    .0810    2.06"</item>
+        <item>"45    .0820    2.08"</item>
+        <item>"44    .0860    2.18"</item>
+        <item>"43    .0890    2.26"</item>
+        <item>"42    .0935    2.37"</item>
+        <item>"3/32  .0938    2.38"</item>
+        <item>"41    .0960    2.44"</item>
+        <item>"40    .0980    2.49"</item>
+        <item>"39    .0995    2.53"</item>
+        <item>"38    .1015    2.58"</item>
+        <item>"37    .1040    2.64"</item>
+        <item>"36    .1065    2.71"</item>
+        <item>"7/64  .1094    2.78"</item>
+        <item>"35    .1100    2.79"</item>
+        <item>"34    .1110    2.82"</item>
+        <item>"33    .1130    2.87"</item>
+        <item>"32    .1160    2.95"</item>
+        <item>"      .1181    3.00"</item>
+        <item>"31    .1200    3.05"</item>
+        <item>"1/8   .1250    3.18"</item>
+        <item>"30    .1285    3.26"</item>
+        <item>"29    .1360    3.45"</item>
+        <item>"28    .1405    3.57"</item>
+        <item>"9/64  .1406    3.57"</item>
+        <item>"27    .1440    3.66"</item>
+        <item>"26    .1470    3.73"</item>
+        <item>"25    .1495    3.80"</item>
+        <item>"24    .1520    3.86"</item>
+        <item>"23    .1540    3.91"</item>
+        <item>"5/32  .1563    3.97"</item>
+        <item>"22    .1570    3.99"</item>
+        <item>"      .1575    4.00"</item>
+        <item>"21    .1590    4.04"</item>
+        <item>"20    .1610    4.09"</item>
+        <item>"19    .1660    4.22"</item>
+        <item>"18    .1695    4.31"</item>
+        <item>"11/64 .1719    4.37"</item>
+        <item>"17    .1730    4.39"</item>
+        <item>"16    .1770    4.50"</item>
+        <item>"15    .1800    4.57"</item>
+        <item>"14    .1820    4.62"</item>
+        <item>"13    .1850    4.70"</item>
+        <item>"3/16  .1875    4.76"</item>
+        <item>"12    .1890    4.80"</item>
+        <item>"11    .1910    4.85"</item>
+        <item>"10    .1935    4.91"</item>
+        <item>"9     .1960    4.98"</item>
+        <item>"      .1969    5.00"</item>
+        <item>"8     .1990    5.05"</item>
+        <item>"7     .2010    5.11"</item>
+        <item>"13/64 .2031    5.16"</item>
+        <item>"6     .2040    5.18"</item>
+        <item>"5     .2055    5.22"</item>
+        <item>"4     .2090    5.31"</item>
+        <item>"3     .2130    5.41"</item>
+        <item>"7/32  .2188    5.56"</item>
+        <item>"2     .2210    5.61"</item>
+        <item>"1     .2280    5.79"</item>
+        <item>"A     .2340    5.94"</item>
+        <item>"15/64 .2344    5.95"</item>
+        <item>"      .2362    6.00"</item>
+        <item>"B     .2380    6.05"</item>
+        <item>"C     .2420    6.15"</item>
+        <item>"D     .2460    6.25"</item>
+        <item>"E     .2500    6.35"</item>
+        <item>"F     .2570    6.53"</item>
+        <item>"G     .2610    6.63"</item>
+        <item>"17/64 .2656    6.75"</item>
+        <item>"H     .2660    6.76"</item>
+        <item>"I     .2720    6.91"</item>
+        <item>"      .2756    7.00"</item>
+        <item>"J     .2770    7.04"</item>
+        <item>"K     .2810    7.14"</item>
+        <item>"9/32  .2813    7.14"</item>
+        <item>"L     .2900    7.37"</item>
+        <item>"M     .2950    7.49"</item>
+        <item>"19/64 .2969    7.54"</item>
+        <item>"N     .3020    7.67"</item>
+        <item>"5/16  .3125    7.94"</item>
+        <item>"      .3150    8.00"</item>
+        <item>"O     .3160    8.03"</item>
+        <item>"P     .3230    8.20"</item>
+        <item>"21/64 .3281    8.33"</item>
+        <item>"Q     .3320    8.43"</item>
+        <item>"R     .3390    8.61"</item>
+        <item>"11/32 .3438    8.73"</item>
+        <item>"S     .3480    8.84"</item>
+        <item>"      .3543    9.00"</item>
+        <item>"T     .3580    9.09"</item>
+        <item>"23/64 .3594    9.13"</item>
+        <item>"U     .3680    9.35"</item>
+        <item>"3/8   .3750    9.53"</item>
+        <item>"V     .3770    9.58"</item>
+        <item>"W     .3860    9.80"</item>
+        <item>"25/64 .3906    9.92"</item>
+        <item>"X     .3970    10.08"</item>
+        <item>"Y     .4040    10.26"</item>
+        <item>"13/32 .4063    10.32"</item>
+        <item>"Z     .4130    10.49"</item>
+        <item>"27/64 .4219    10.72"</item>
+        <item>"7/16  .4375    11.11"</item>
+        <item>"29/64 .4531    11.51"</item>
+        <item>"15/32 .4688    11.91"</item>
+        <item>"31/64 .4844    12.30"</item>
+        <item>"1/2   .5000    12.55"</item>
+        <item>"33/64 .5156    13.10"</item>
+        <item>"17/32 .5313    13.49"</item>
+        <item>"35/64 .5469    13.89"</item>
+        <item>"9/16  .5625    14.29"</item>
+        <item>"37/64 .5781    14.68"</item>
+
+    </string-array>
+</resources>
