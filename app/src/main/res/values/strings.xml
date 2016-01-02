@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shop-ref-4048</string>
+    <string name="main_title">Shop Reference (4048)</string>
+    <string name="drill_size_heading_string">"Drill Decimal  Metric\nsize  inches    MM"</string>
+    <string name="tap_table_heading_string">"Bolt   Cutting Forming Clear\nsize     tap     tap   drill"</string>
+</resources>
